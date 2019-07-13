@@ -1,0 +1,11 @@
+[info]
+title=Formatter: CSS Prefixer
+desc=Inserts vendor prefixes into CSS code
+type=cudatext-plugin
+subdir=cuda_fmt_css_prefixer
+homepage=https://github.com/CudaText-addons/cuda_fmt_css_prefixer
+
+[fmt1]
+caption=CSS Prefixer
+method=do_format
+lexers=CSS
