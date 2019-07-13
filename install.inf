@@ -1,5 +1,5 @@
 [info]
-title=Formatter: CSS Prefixer
+title=Formatter for CSS: Prefixer
 desc=Inserts vendor prefixes into CSS code
 type=cudatext-plugin
 subdir=cuda_fmt_css_prefixer
