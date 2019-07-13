@@ -1,6 +1,6 @@
 Formatter "CSS Prefixer" for CudaText.
-It allows to insert needed vendor prefixes into CSS code.
-Uses Python library "cssprefixer" (corrected manually for Python 3).
+Allows to insert needed vendor prefixes into CSS code.
+Uses Python library "cssprefixer" from https://github.com/ongspxm/cssprefixer2
 
 Example. Such CSS code:
 
